@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		C2A260572A5449C10098059A /* SwiftTIL3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftTIL3; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2A2605A2A5449C10098059A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		C2A260682A5CDF670098059A /* How to use Functions in Swift | Swift Basics #5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "How to use Functions in Swift | Swift Basics #5.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		C2A2604E2A5449C10098059A = {
 			isa = PBXGroup;
 			children = (
+				C2A260662A5CDF1B0098059A /* Swiftful Thinking */,
 				C2A260592A5449C10098059A /* SwiftTIL3 */,
 				C2A260582A5449C10098059A /* Products */,
 			);
@@ -60,6 +62,22 @@
 				C2A2605A2A5449C10098059A /* main.swift */,
 			);
 			path = SwiftTIL3;
+			sourceTree = "<group>";
+		};
+		C2A260662A5CDF1B0098059A /* Swiftful Thinking */ = {
+			isa = PBXGroup;
+			children = (
+				C2A260672A5CDF270098059A /* 23.07.11 */,
+			);
+			path = "Swiftful Thinking";
+			sourceTree = "<group>";
+		};
+		C2A260672A5CDF270098059A /* 23.07.11 */ = {
+			isa = PBXGroup;
+			children = (
+				C2A260682A5CDF670098059A /* How to use Functions in Swift | Swift Basics #5.playground */,
+			);
+			path = 23.07.11;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
